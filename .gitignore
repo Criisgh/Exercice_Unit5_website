@@ -1,0 +1,3 @@
+#ignorar ficheros con las siguientes extensiones: 
+*.vscode
+*.DS_Store
